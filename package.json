@@ -1,0 +1,13 @@
+{
+  "name": "react-native-secondary-screen",
+  "version": "0.1.0",
+  "description": "React Native helper to show a React component on Android secondary display (Presentation + ReactRootView)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["react-native", "secondary-screen", "presentation", "android"],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
